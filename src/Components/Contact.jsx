@@ -10,6 +10,10 @@ const Contact = () => {
         
     }
 
+    const submitHandler = (e) => {
+        e.preventDefault();
+    }
+
     return (
     <>
       <div className='paddingdiv my-3'></div>
@@ -55,7 +59,7 @@ const Contact = () => {
             </Form.Group>
 
             {/* Submit Button */}
-            <Button variant="primary" type="submit">
+            <Button variant="primary" type="submit" onSubmit={submitHandler}>
               Submit
             </Button>
           </div>
