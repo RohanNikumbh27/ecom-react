@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ecom-react/static/css/main.9f707498.css",
+    "main.js": "/ecom-react/static/js/main.12504d1c.js",
+    "static/media/Search_png_file-removebg-preview.png": "/ecom-react/static/media/Search_png_file-removebg-preview.4b3936745d131575713e.png",
+    "index.html": "/ecom-react/index.html",
+    "main.9f707498.css.map": "/ecom-react/static/css/main.9f707498.css.map",
+    "main.12504d1c.js.map": "/ecom-react/static/js/main.12504d1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f707498.css",
+    "static/js/main.12504d1c.js"
+  ]
+}
