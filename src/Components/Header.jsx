@@ -14,7 +14,7 @@ function Header() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary"  >
       <div className='brand-name-a-div' style={{width: "100%"}}>
-        <a href="#" className='brand-name-a'>Fukatghya</a>
+        <a href="#" className='brand-name-a'>Shopgram</a>
         <Navbar.Toggle style={{ zIndex: "1000" }} className='navtog'/>
         <Navbar.Collapse id="navbarScroll">
           <div className='px-2 py-3' style={{ justifySelf: "flex-start" }}>
